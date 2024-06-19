@@ -5,7 +5,7 @@ Windows app where you have a counter that you can increment with buttons or glob
 - Choose by how much to increment
 - Select a global hotkey
 - Display the counter as a number or as a time (example 2D 16H 37.190)
-- Choose between 4 fonts and sizes
+- Choose between 4 fonts and 3 sizes
 
 I did this app quickly for myself to use it on streams without testing everything thoroughly.
 I can't guarantee that it will work on all computers and that it won't crash.
