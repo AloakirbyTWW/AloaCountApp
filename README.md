@@ -18,3 +18,5 @@ I can't guarantee that it will work on all computers and that it won't crash.
 2) Inside the "AloaCountApp" folder, there should be a "AloaCounterApp.exe - Racourci" file. Double click on that file to start the app. The app window should appear.
 
 that's it
+
+good luck
