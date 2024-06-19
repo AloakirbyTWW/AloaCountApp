@@ -10,7 +10,7 @@ Windows app where you have a counter that you can increment with buttons or glob
 I did this app quickly for myself to use it on streams without testing everything thoroughly.
 I can't guarantee that it will work on all computers and that it won't crash.
 
-# How to strat
+# How to start
 
 1) Download the file
   If you're on the Github page, there should be a green button called "Code" somewhere at the top of the page that, when clicked, makes an option to download a zip file appear.
