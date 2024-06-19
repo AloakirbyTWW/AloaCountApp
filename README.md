@@ -4,7 +4,7 @@ Windows app where you have a counter that you can increment with buttons or glob
 - You should be able to create, save, and delete different counter sessions
 - Choose by how much to increment
 - Select a global hotkey
-- Display the counter as a number or as a time (example 2D 16H 37.190)
+- Display the counter as a number or as a time (example 2D 16H 52m 37.190)
 - Choose between 4 fonts and 3 sizes
 
 I did this app quickly for myself to use it on streams without testing everything thoroughly.
