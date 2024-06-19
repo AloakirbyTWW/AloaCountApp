@@ -1,0 +1,58 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="Manual"
+        WindowStyle="SingleBorderWindow"
+        HorizontalAlignment="Center"     
+        Title="AloaCounterApp"
+        Background="{DynamicResource GreenBackground}">
+    <Window.Resources>
+        <SolidColorBrush x:Key="GreenBackground" Color="Lime"/>
+    </Window.Resources>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Grid.Row="0" Grid.Column="0" x:Name="subButton" Content="-" Click="SubButton_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI" Width="18"/>
+        <Button Grid.Row="0" Grid.Column="1" x:Name="addButton" Content="+" Click="AddButton_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI" Width="18"/>
+        <Button Grid.Row="0" Grid.Column="2" x:Name="whiteButton" Content="W" Click="WhiteButton_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI" Width="18"/>
+        <Button Grid.Row="0" Grid.Column="3" x:Name="blackButton" Content="B" Click="BlackButton_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI" Width="18"/>
+        <Button Grid.Row="0" Grid.Column="4" x:Name="loadCounter" Content="Load Counter" Click="LoadCounter_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Button Grid.Row="0" Grid.Column="5" x:Name="newCounter" Content="New Counter" Click="NewCounter_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI" />
+        <Button Grid.Row="0" Grid.Column="6" x:Name="deleteCounter" Content="Delete Counter" Click="DeleteCounter_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Button Grid.Row="0" Grid.Column="7" x:Name="timeButton" Content="TimeORCounter" Click="TimeButton_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Button Grid.Row="0" Grid.Column="8" x:Name="fontButton" Content="Change Font" Click="FontButton_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Button Grid.Row="0" Grid.Column="9" x:Name="sizeButton" Content="Change Size" Click="SizeButton_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Button Grid.Row="0" Grid.Column="10" x:Name="globalHotKey" Content="Select Global Hot Key" Click="GlobalHotKey_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="7" x:Name="currentCounter" Content="Current Counter : None" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Label Grid.Row="1" Grid.Column="7" Grid.ColumnSpan="7" x:Name="currentTimeORCounter" Content="Counter" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Label Grid.Row="1" Grid.Column="8" Grid.ColumnSpan="7" x:Name="currentFont" Content="1" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Label Grid.Row="1" Grid.Column="9" Grid.ColumnSpan="7" x:Name="currentSize" Content="1" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Label Grid.Row="1" Grid.Column="10" Grid.ColumnSpan="7" x:Name="currentGlobalHotKey" Content="None + None" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+
+        <Label Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="13" x:Name="counter" Content="counter" FontWeight="Bold" FontFamily="Sherwood" FontSize="72" Visibility="Visible" Height="82" HorizontalAlignment="Center" VerticalAlignment="Center" Width="1160" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="Black"/>
+
+        <!-- ListBox Grid.Row="1" Grid.Column="0" x:Name="hotkeysFired"/-->
+    </Grid>
+</Window>
+

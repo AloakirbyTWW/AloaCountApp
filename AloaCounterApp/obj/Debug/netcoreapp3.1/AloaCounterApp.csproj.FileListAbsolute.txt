@@ -1,0 +1,54 @@
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\AloaCounterApp.exe
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\AloaCounterApp.deps.json
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\AloaCounterApp.runtimeconfig.json
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\AloaCounterApp.runtimeconfig.dev.json
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\AloaCounterApp.dll
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\AloaCounterApp.pdb
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.csproj.AssemblyReference.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\DeleteCounterWindow.baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\GlobalHotKeyWindow.baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\LoadCounterWindow.baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\NewCounterWindow .baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\DeleteCounterWindow.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\GlobalHotKeyWindow.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\LoadCounterWindow.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\NewCounterWindow .g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\App.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp_MarkupCompile.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.g.resources
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.AssemblyInfoInputs.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.AssemblyInfo.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.csproj.CoreCompileInputs.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.dll
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.pdb
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\AloaCounterApp.genruntimeconfig.cache
+D:\programmingStuff\AloaCounterApp\bin\Debug\netcoreapp3.1\AloaCounterApp.exe
+D:\programmingStuff\AloaCounterApp\bin\Debug\netcoreapp3.1\AloaCounterApp.deps.json
+D:\programmingStuff\AloaCounterApp\bin\Debug\netcoreapp3.1\AloaCounterApp.runtimeconfig.json
+D:\programmingStuff\AloaCounterApp\bin\Debug\netcoreapp3.1\AloaCounterApp.runtimeconfig.dev.json
+D:\programmingStuff\AloaCounterApp\bin\Debug\netcoreapp3.1\AloaCounterApp.dll
+D:\programmingStuff\AloaCounterApp\bin\Debug\netcoreapp3.1\AloaCounterApp.pdb
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.csproj.AssemblyReference.cache
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\DeleteCounterWindow.baml
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\GlobalHotKeyWindow.baml
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\LoadCounterWindow.baml
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\NewCounterWindow .baml
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\DeleteCounterWindow.g.cs
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\GlobalHotKeyWindow.g.cs
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\LoadCounterWindow.g.cs
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\NewCounterWindow .g.cs
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp_MarkupCompile.cache
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.g.resources
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.AssemblyInfoInputs.cache
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.AssemblyInfo.cs
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.csproj.CoreCompileInputs.cache
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.dll
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.pdb
+D:\programmingStuff\AloaCounterApp\obj\Debug\netcoreapp3.1\AloaCounterApp.genruntimeconfig.cache

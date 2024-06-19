@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp1.LoadCounterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Load Counter"
+        Background="{DynamicResource GrayBackground}">
+    <Window.Resources>
+        <SolidColorBrush x:Key="GrayBackground" Color="Gray"/>
+    </Window.Resources>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+
+        <ComboBox Grid.Row="0" Grid.Column="0" x:Name="comboBox" Grid.ColumnSpan="2" Text="Choose counter"/>
+        <Button Grid.Row="1" Grid.Column="0" x:Name="ok" Content="ok" Click="ok_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI" Margin="100,0,100,0"/>
+
+
+    </Grid>
+</Window>

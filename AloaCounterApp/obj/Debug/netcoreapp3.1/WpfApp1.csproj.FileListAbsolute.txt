@@ -1,0 +1,65 @@
+D:\programmingStuff\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+D:\programmingStuff\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+D:\programmingStuff\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+D:\programmingStuff\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+D:\programmingStuff\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+D:\programmingStuff\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+D:\programmingStuff\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1.dll
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+D:\programmingStuff\StreamCountApp\bin\Debug\netcoreapp3.1\WpfApp1.exe
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+D:\programmingStuff\StreamCountApp\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+D:\programmingStuff\StreamCountApp\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+D:\programmingStuff\StreamCountApp\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+D:\programmingStuff\StreamCountApp\bin\Debug\netcoreapp3.1\WpfApp1.dll
+D:\programmingStuff\StreamCountApp\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+D:\programmingStuff\StreamCountApp\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\WpfApp1.exe
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\WpfApp1.dll
+D:\programmingStuff\StreamCountApp Linkus\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\App.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.dll
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\LoadCounterWindow.baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\LoadCounterWindow.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\DeleteCounterWindow.baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\DeleteCounterWindow.g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\NewCounterWindow .baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\NewCounterWindow .g.cs
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\GlobalHotKeyWindow.baml
+D:\programmingStuff\StreamCountApp Linkus\obj\Debug\netcoreapp3.1\GlobalHotKeyWindow.g.cs

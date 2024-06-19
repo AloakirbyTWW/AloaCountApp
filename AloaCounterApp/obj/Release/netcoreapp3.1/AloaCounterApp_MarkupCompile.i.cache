@@ -1,0 +1,20 @@
+﻿AloaCounterApp
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\programmingStuff\AloaCounterApp\obj\Release\netcoreapp3.1\
+AloaCounterApp
+none
+false
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
+D:\programmingStuff\AloaCounterApp\App.xaml
+5-2053913039
+
+12-277508344
+192-1533232326
+DeleteCounterWindow.xaml;GlobalHotKeyWindow.xaml;LoadCounterWindow.xaml;MainWindow.xaml;NewCounterWindow .xaml;
+
+False
+

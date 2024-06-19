@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp1.NewCounterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="New Counter"
+        Background="{DynamicResource GrayBackground}">
+    <Window.Resources>
+        <SolidColorBrush x:Key="GrayBackground" Color="Gray"/>
+    </Window.Resources>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" x:Name="nameLabel" Content="Name (try to use valid Windows folder names) :" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Label Grid.Row="1" Grid.Column="0" x:Name="countLabel" Content="Starting number (in millie seconds for times) :" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+        <Label Grid.Row="2" Grid.Column="0" x:Name="nbToAddLabel" Content="Increment number (in millie seconds for times) :" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI"/>
+
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="nameTextBox" />
+        <TextBox Grid.Row="1" Grid.Column="1" x:Name="countTextBox" />
+        <TextBox Grid.Row="2" Grid.Column="1" x:Name="nbToAddTextBox" />
+
+        <Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" x:Name="create" Content="Create" Click="create_Click" FontSize="10" FontWeight="Bold" FontFamily="Segoe UI" Margin="150,0,150,0"/>
+
+    </Grid>
+</Window>
