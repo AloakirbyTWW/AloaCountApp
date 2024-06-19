@@ -13,7 +13,7 @@ I can't guarantee that it will work on all computers and that it won't crash.
 # How to start
 
 1) Download the file
-If you're on the Github page, there should be a green button called "Code" somewhere at the top of the page that, when clicked, makes an option to download a zip file appear. Download that zip file and unzip it.
+(If you're on the Github page, there should be a green button called "Code" somewhere at the top of the page that, when clicked, makes an option to download a zip file appear. Download that zip file and unzip it.)
 
 2) Inside the "AloaCountApp" folder, there should be a "AloaCounterApp.exe - Racourci" file. Double click on that file to start the app. The app window should appear.
 
